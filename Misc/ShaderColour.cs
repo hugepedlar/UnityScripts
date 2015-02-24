@@ -1,4 +1,4 @@
-﻿// Makes a sprite flash white, for example when uder attack
+﻿// Makes a sprite flash white, for example when under attack
 // Bit of a hack but it works.
 
 using UnityEngine;
